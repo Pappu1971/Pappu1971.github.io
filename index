@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Pappu Singha</title>
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css' />
+
+	<link rel="stylesheet" href="css/normalize.css" />
+	<link rel="stylesheet" href="css/skeleton.css" />
+	<link rel="stylesheet" href="css/index.css" />
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+</head>
+<body>
+
+	<div class="section container">
+		<div class="row">
+			<div class="twelve columns hero">
+				<h2>
+					Hello, I'm
+				</h2>
+				<h1>Pappu Singha</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="offset-by-two column eight columns">
+				<h5>I am an Andorid and IOS App Developer </h5>
+				<h4>
+					I write code on <a href="http://github.com/pappu1971" class="social-link github" title="Github">Github</a> and I occasionally post to
+					<a href="http://twitter.com/dipmeiteipappu1" class="social-link twitter" title="Twitter">Twitter</a>,
+					<a href="http://plus.google.com/+AbadoJacob" class="social-link google-plus" title="Google Plus">Google Plus</a>,
+					<a href="https://medium.com/@abadojack" class "social-link medium" title="Medium">Medium</a>
+					and <a href="http://instagram.com/abadojack" class="social-link instagram" title="Instagram">Instagram</a>.
+				</h4>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
