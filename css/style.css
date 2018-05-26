@@ -47,9 +47,10 @@ p a:hover {
 }
 #header a.logo {
 	display: block;
-	margin: 0 auto;
+	margin: 0 middle;
 	padding: 0;
-	width: 340px;
+	width: 140px;
+	
 }
 #header a.logo img {
 	border: 0;
